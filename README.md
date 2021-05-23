@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohitsoodaut@gmail.com**
 
-- ⚡ Fun fact **I and some of my friends think I am funny**
+- ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
