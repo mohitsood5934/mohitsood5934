@@ -27,6 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsood5934&show_icons=true&locale=en&layout=compact" alt="mohitsood5934" /></p>
 
-<!-- # Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
