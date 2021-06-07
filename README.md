@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **NextJS,Advance CSS**
+- 🌱 I’m currently learning **NextJS,Advance CSS,Docker**
 
 - 👯 I’m looking to collaborate on **NextJS**
 
