@@ -11,10 +11,6 @@
 
 - 👯 I’m looking to collaborate on **NextJS**
 
-- 👨‍💻 Some of my projects are available at [https://mohitsood.in/portfolio](https://mohitsood.in/portfolio)
-
-- 📝 I regularly write articles on [https://mohitsood.in/blogs](https://mohitsood.in/blogs)
-
 - 💬 Ask me about **ReactJS,NodeJS,Javascript**
 
 - 📫 How to reach me **mohitsoodaut@gmail.com**
