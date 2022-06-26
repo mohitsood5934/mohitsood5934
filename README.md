@@ -7,15 +7,14 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **NextJS,Advance CSS,Docker**
+- 🌱 I’m currently learning **Golang,Advance CSS,Docker**
 
-- 👯 I’m looking to collaborate on **NextJS**
+- 👯 I’m looking to collaborate on **ReactJS**
 
 - 💬 Ask me about **ReactJS,NodeJS,Javascript**
 
 - 📫 How to reach me **mohitsoodaut@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
