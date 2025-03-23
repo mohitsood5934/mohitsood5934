@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **ReactJS,NodeJS,Javascript**
 
-- 📫 How to reach me **mohitsoodaut@gmail.com**
 
 
 
