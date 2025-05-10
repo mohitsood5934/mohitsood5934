@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Python,Advance CSS,Docker**
+- 🌱 I’m currently learning **React Native,Tailwind CSS,Docker**
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
-- 💬 Ask me about **ReactJS,NodeJS,Javascript**
+- 💬 Ask me about **ReactJS,NodeJS,Javascript,Webapps performance optimization, SEO**
 
 
 
